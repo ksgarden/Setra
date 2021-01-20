@@ -1,0 +1,27 @@
+.icone-aluno>img{
+    width:50px;
+    height:50px;
+    border-radius:100%;
+    margin-left: 95%;
+  }
+#menu{
+  display: none;
+  margin-right: 1100px;
+}
+button.list-group-item {
+background-color: rgb(203, 241, 198);
+}
+
+#usuario{
+  display: none;
+  margin-left: 1100px;
+}
+#menu>div.list-group{
+  height: 700px;
+}
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
